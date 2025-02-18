@@ -89,7 +89,7 @@ Contributions are welcome! Here’s how you can contribute:
 ---
 
 ## **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. This code was written by non-other than Lee_Tadiwarr, for any further queries contact him at kesleygwa@gmail.com
 
 ---
 
